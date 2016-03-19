@@ -28,6 +28,7 @@ Typing the code samples and getting them to run will help you learn the names of
 the symbols, get familiar with typing them, and get you reading the language.
 
 *Attention to Detail*
+
 The one skill that separates bad programmers from good programmers is attention 
 to detail. In fact, it's what separates the good from the bad in any profession. 
 You must pay attention to the tiniest details of your work or you will miss 
@@ -39,6 +40,7 @@ training your brain to focus on the details of what you are doing, as you are
 doing it.
 
 *Spotting Differences*
+
 A very important skill (that most programmers develop over time) is the ability 
 to visually notice differences between things. An experienced programmer can 
 take two pieces of code that are slightly different and immediately start 
@@ -53,12 +55,14 @@ By doing so, you will train yourself to notice mistakes, bugs, and other
 problems.
 
 *Do Not Copy-Paste*
+
 You must type each of these exercises in, manually. If you copy and paste, you 
 might as well not even do them. The point of these exercises is to train your 
 hands, your brain, and your mind in how to read, write, and see code. If you 
 copy-paste, you are cheating yourself out of the effectiveness of the lessons.
 
 *Using the Included Videos*
+
 Learn Ruby The Hard Way has more than 5 hours of instructional videos to help 
 you with the book. There is one video for each exercise where I either 
 demonstrate the exercise, or give you tips for completing the exercise. The 
@@ -70,6 +74,7 @@ the videos, or any videos to learn programming. You'll be able to just read for
 the information you need.
 
 *A Note on Practice and Persistence*
+
 While you are studying programming, I'm studying how to play guitar. I practice 
 it every day for at least two hours a day. I play scales, chords, and arpeggios 
 for an hour and then learn music theory, ear training, songs, and anything else 
@@ -120,6 +125,7 @@ best and a little more and it didn't work out, but at least you tried. You can
 be proud of that.
 
 *A Warning for the Smarties*
+
 Sometimes people who already know a programming language will read this book and 
 feel I'm insulting them. There is nothing in this book that is intended to be 
 interpreted as condescending, insulting, or belittling. I simply know more about 
